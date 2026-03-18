@@ -1,0 +1,15 @@
+# Klucze prywatne — NIGDY nie wgrywaj na GitHub!
+*.json
+!example_service_account.json
+
+# Logi
+prestashop_to_gmc.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
