@@ -129,7 +129,7 @@ Skrypt używa uwierzytelniania serwer-serwer, bez potrzeby logowania przez przeg
 
 ## Krok 4 — Konfiguracja skryptu
 
-Otwórz plik `sync.py` i wypełnij sekcję konfiguracyjną na górze:
+Otwórz plik `prestashop_to_gmc.py` i wypełnij sekcję konfiguracyjną na górze:
 
 ```python
 MERCHANT_ID          = '123456789'          # Twój Merchant ID z Google Merchant Center
